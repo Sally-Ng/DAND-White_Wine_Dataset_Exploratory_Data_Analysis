@@ -7,10 +7,10 @@ the multiple linear regression.
 
 </br>
 <p align="left">
-  <img src="scatterplot.JPG" width="200"/>
+  <img src="scatterplot.JPG" width="500"/>
 </p>
 
 </br>
 <p align="left">
-  <img src="corrMatrix.JPG" width="700"/>
+  <img src="corrMatrix.JPG" width="500"/>
 </p>
