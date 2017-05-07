@@ -14,3 +14,4 @@ the multiple linear regression.
 <p align="left">
   <img src="corrMatrix.JPG" width="500"/>
 </p>
+   
