@@ -1,5 +1,5 @@
 ## White_Wine_Dataset_Exploratory_Data_Analysis
-Language: R(ggplot2, dplyr, memisc, GGally, gridExtra) </br>
+Language: R (ggplot2, dplyr, memisc, GGally, gridExtra) </br>
 Skills: Inferential Statistics, Data visualization </br>
 Used histograms, boxplots, scatter plots and correlation matrix to explore and visualize the White Wine dataset. 
 The relationships between the variables have been investigated by computing Pearson Correlation tests and 
